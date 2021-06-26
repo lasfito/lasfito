@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lasfi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS & React/TS
-- 💞️ I’m looking to collaborate on UI
+- 🌱 I’m currently learning JS & React
+- 💞️ I’m looking forward to collaborating on front-end development
 - 📫 How to reach me www.lasfi.to
 
 <!---
