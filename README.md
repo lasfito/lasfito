@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lasfi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS & React
+- 🌱 My tech stack: JavaScript, SASS & React
 - 💞️ I’m looking forward to collaborating on front-end development
 - 📫 How to reach me www.lasfi.to
 
