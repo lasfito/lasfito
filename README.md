@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/lasfito/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https:/https://lasfi.to">
+  <a href="https://lasfi.to">
     <img src="https://img.shields.io/badge/portafolio-%230077B5.svg?&style=for-the-badge&logo=aboutdotme&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
