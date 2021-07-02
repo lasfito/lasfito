@@ -41,7 +41,7 @@
 
 
 <p align='center'>
-  📫 Contáctame por <a href='mailto: '> hola@lasfi.to</a>
+  📫 Contáctame por <a href='mailto:hola@lasfi.to '> hola@lasfi.to</a>
 </p>
 
 
