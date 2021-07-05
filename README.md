@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Soy desarrollador Front-end 100% mexicano 🇲🇽
+  Soy desarrollador Front-end 100% mexicano 😁
 </p>
 
 
@@ -21,7 +21,7 @@
 
 <!--ESTADISTICAS-->
 <!-- <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lasfi&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lasfito&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p> -->
 
 <p align='center'>
@@ -73,6 +73,6 @@
 </details>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/lasfi/lasfi"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/lasfito/lasfito"></a>
 </p>
 
