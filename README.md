@@ -45,7 +45,6 @@
 </p>
 
 
-<details>
 
 
 <p align='center'>
