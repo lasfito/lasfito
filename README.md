@@ -53,9 +53,5 @@
 
   ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Handle One-to-Many Relationships in NoSQL Databases](https://betterprogramming.pub/how-to-handle-one-to-many-relationships-in-nosql-databases-23627d404cb0?source=rss-fe04a352a811------2)
-- [Blazing Fast and Cost-Effective Query in AWS DynamoDB](https://aws.plainenglish.io/blazing-fast-and-cost-effective-query-in-aws-dynamodb-18b49009e0f1?source=rss-fe04a352a811------2)
-- [How to Create a Kick-Ass GitHub Profile in 5 Minutes](https://javascript.plainenglish.io/how-to-create-a-kick-ass-github-profile-in-5-minutes-19a8e8d0693b?source=rss-fe04a352a811------2)
-- [Think Twice Before Joining Large Companies as a Junior Engineer](https://levelup.gitconnected.com/think-twice-before-joining-large-companies-as-a-junior-engineer-a1179c967642?source=rss-fe04a352a811------2)
-- [Developing a Powerful Alert System Using React Context API](https://javascript.plainenglish.io/developing-a-powerful-alert-system-using-react-context-api-df68c357db68?source=rss-fe04a352a811------2)
+- [¿Qué es un dominio? Guía para principiantes](https://lasfito.medium.com/que-es-un-dominio-guia-para-principiantes-2d9d377bd8bf?source=rss-f779fe6e3725------2)
 <!-- BLOG-POST-LIST:END -->
