@@ -17,7 +17,7 @@
 
 - 👨‍💻 Revisa mi portafolio en [https://lasfi.to](https://lasfi.to)
 
-- 📝 Regularmente escribo en [https://lasfi.com/blog](https://lasfi.com/blog)
+- 📝 Regularmente escribo en [https://lasfi.to/blog](https://lasfi.to/blog)
 
 - ⚡ Fun fact: **Hablo un poco de ruso**
 
