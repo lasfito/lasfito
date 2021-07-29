@@ -100,15 +100,6 @@ Contáctame por
 
 
 
-## Estadísticas 
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lasfito&show_icons=true&locale=es" alt="lasfito" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lasfito&" alt="lasfito" /></p>
-
 
 
 
