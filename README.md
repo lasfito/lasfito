@@ -10,7 +10,7 @@
   - 2 años de experiencia en desarrollo full stack (React / Node / React Native)
   - Revisa mi sitio web en [https://lasfi.to](https://lasfi.to)
   - Creador de contenido en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
-  -  Hablo un poco de **ruso** y amo escuchar música.
+  -  Adicional a inglés, hablo un poco de **ruso**.
 
 
 
