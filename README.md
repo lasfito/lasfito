@@ -9,7 +9,7 @@
   - Ingeniero bilingüe de software
   - 2 años de experiencia en desarrollo full stack (React / Node / React Native)
   - Revisa mi sitio web en [https://lasfi.to](https://lasfi.to)
-  - Creador de contenido en [https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw](YouTube)
+  - Creador de contenido en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
   -  Hablo un poco de **ruso** y amo escuchar música.
 
 
