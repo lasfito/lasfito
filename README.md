@@ -7,7 +7,8 @@
   Soy desarrollador Front-end 100% mexicano con 1 año de experiencia en JavaScript y React. 😁
   </p>
 
-  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+[![Lasfitos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasfito)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Resumen 
