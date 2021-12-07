@@ -40,7 +40,11 @@ Contáctame por
 
 ## Publicaciones recientes
 <!-- BLOG-POST-LIST:START -->
-
+- [Manda tu código a producción y edítalo desde tu PC](https://www.youtube.com/watch?v=dW7BDrJbzz0)
+- [Auth y Roles de Usuario con Firebase y React](https://www.youtube.com/watch?v=6O2yYpIG8R8)
+- [Agrega comentarios a tu sitio web con GitHub](https://www.youtube.com/watch?v=dxHTKkVtffM)
+- [4 formas de enviar correo desde formulario HTML](https://www.youtube.com/watch?v=zXMcoTRTswQ)
+- [Crea un backend en Google Cloud con Strapi](https://www.youtube.com/watch?v=BHly5BDJ04s)
 <!-- BLOG-POST-LIST:END -->
 
 
