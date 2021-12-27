@@ -57,14 +57,15 @@
       <br>MacOs
     </td>
   </tr>
-  
+  </table>
+  <table align="center">
   <tr>
     <td align="center" width="96"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.sv" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center"  width="96">
