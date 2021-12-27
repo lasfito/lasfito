@@ -17,12 +17,12 @@
 
 
 
-<!--
+
 [![Lasfitos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasfito&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=vue_dark&locale=es&hide_title=false&include_all_commits=true&custom_title=numericos)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&&hide=html&custom_title=Según GitHub:" alt="lasfito" />
--->
+
 
 ## Boletín
 
