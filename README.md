@@ -43,15 +43,14 @@
           </td>
           <td align="center" width="96">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
               width="48"
               height="48"
-              alt="Python"/>
-            <br /> JavaScript
+              alt="TypeScript"/>
           </td>
           <td align="center" width="96">
             <img
-              src="https://cdn.worldvectorlogo.com/logos/django.svg"
+              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png"
               width="48"
               height="48"
               alt="Django"
