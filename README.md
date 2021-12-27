@@ -26,7 +26,7 @@
 
 ## Habilidades
 
-
+<!--
 <table align="center">
       <tbody>
         <tr>
@@ -109,10 +109,92 @@
           </td>
         </tr>
       </tbody>
+    </table> -->
+
+
+<table align="center">
+      <tbody>
+        <tr>
+           <td align="center" width="48">
+            Lenguajes
+          </td>
+          <td align="center" width="48">
+            <img
+              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"
+              width="24"
+              height="24"
+              alt="JavaScript"/>
+          </td>
+          <td align="center" width="48">
+            <img
+              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png"
+              width="24"
+              height="24"
+              alt="TypeScript"/>
+          </td>
+          <td align="center" width="48">
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+              width="24"
+              height="24"
+              alt="HTML"
+            />
+          </td>
+          <td align="center" width="48">
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+              width="24"
+              height="24"
+              alt="CSS"
+            />
+          </td>
+          <td align="center" width="48">
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+              width="24"
+              height="24"
+              alt="SASS"
+            />          
+          </td>
+        </tr>
+        <tr>
+           <td align="center" width="48">
+            Frameworks Librerías
+          </td>
+          <td align="center" width="48">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+              width="32"
+              height="32"
+              alt="React"/>
+          </td>
+          <td align="center" width="48">
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+              width="32"
+              height="32"
+              alt="Node"
+            />
+          </td>
+          <td align="center" width="48">
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+              width="24"
+              height="24"
+              alt="Bootstrap"
+            />
+          </td>
+          <td align="center" width="48">
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg"
+              width="24"
+              height="24"
+              alt="Gatsby"
+            /> 
+          </td>
+        </tr>
+      </tbody>
     </table>
-
-
-
 
 
 
