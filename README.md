@@ -49,7 +49,7 @@
           </td>
           <td align="center" width="96">
             <img
-              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
               width="48"
               height="48"
               alt="HTML"
@@ -57,7 +57,7 @@
           </td>
           <td align="center" width="96">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
               width="48"
               height="48"
               alt="CSS"
@@ -82,14 +82,6 @@
               width="64"
               height="64"
               alt="React"/>
-          </td>
-          <td align="center" width="96">
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-              width="64"
-              height="64"
-              alt="TypeScript"/>
-            <br /> Native
           </td>
           <td align="center" width="96">
             <img
