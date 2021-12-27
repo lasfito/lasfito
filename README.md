@@ -39,7 +39,7 @@
               alt="JavaScript"
             />
 
-            <br />JavaScript
+       
           </td>
 
           <td align="center" width="96">
@@ -49,7 +49,7 @@
               height="48"
               alt="Python"
             />
-            <br />Python
+         
           </td>
 
           <td align="center" width="96">
@@ -60,7 +60,7 @@
               alt="Django"
             />
 
-            <br />Django
+       
           </td>
 
           <td align="center" width="96">
@@ -71,7 +71,6 @@
               alt="Azure"
             />
 
-            <br />Azure
           </td>
 
           <td align="center" width="96">
@@ -82,7 +81,7 @@
               alt="TypeScript"
             />
 
-            <br />TypeScript
+          
           </td>
         </tr>
       </tbody>
