@@ -69,8 +69,7 @@
               width="48"
               height="48"
               alt="SASS"
-            /> 
-         
+            />          
           </td>
         </tr>
         <tr>
