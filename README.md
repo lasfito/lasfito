@@ -27,6 +27,7 @@
 ## Tecnologías
 
 <table align="center">
+  <tbody>
   <tr>
    
     <td align="center" width="96">
@@ -68,6 +69,7 @@
     </td>
     
   </tr>
+  </tbody>
   
     
     
