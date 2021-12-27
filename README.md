@@ -36,14 +36,14 @@
           </td>
           <td align="center" width="96">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
+              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"
               width="48"
               height="48"
               alt="JavaScript"/>
           </td>
           <td align="center" width="96">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png"
               width="48"
               height="48"
               alt="TypeScript"/>
@@ -53,27 +53,25 @@
               src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png"
               width="48"
               height="48"
-              alt="Django"
+              alt="HTML"
             />
-            <br /> JavaScript
           </td>
           <td align="center" width="96">
             <img
-              src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png"
+              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png"
               width="48"
               height="48"
-              alt="Azure"
+              alt="CSS"
             />
-            <br /> JavaScript
           </td>
           <td align="center" width="96">
-            <img
+           <!-- <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
               width="48"
               height="48"
-              alt="TypeScript"
-            />
-            <br /> JavaScript
+              alt="..."
+            /> -->
+             ...
           </td>
         </tr>
       </tbody>
