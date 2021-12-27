@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=lasfito&label=Profile%20views&color=0e75b6&style=flat" alt="lasfito" /> 
 
 
-  - Ingeniero bilingüe de software
+  - Ingeniero de software bilingüe
   - 2 años de experiencia en desarrollo full stack (React / Node / React Native)
   - Revisa mi sitio web en [https://lasfi.to](https://lasfi.to)
   - Creador de contenido en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
@@ -24,8 +24,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&&hide=html&custom_title=Según GitHub:" alt="lasfito" />
 -->
 
+## Boletín
 
-
+Cada semana comparto con mis suscriptores 3 artículos del mundo tech, 2 recursos de desarrollo y 1 consejo de programación. 
+Es una boletín 100% enfocado en aprendizaje y directo al grano. 
+Puedes suscribirte <a href="http://1-2-3.lasfi.to"  target="blank"> aquí </a>
 
 ## Contacto
 
