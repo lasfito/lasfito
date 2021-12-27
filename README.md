@@ -79,21 +79,21 @@
           <td align="center" width="96">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-              width="48"
-              height="48"
+              width="64"
+              height="64"
               alt="React"/>
           </td>
           <td align="center" width="96">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-              width="48"
-              height="48"
+              width="64"
+              height="64"
               alt="TypeScript"/>
             <br /> Native
           </td>
           <td align="center" width="96">
             <img
-              src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
               width="48"
               height="48"
               alt="Node"
@@ -101,7 +101,7 @@
           </td>
           <td align="center" width="96">
             <img
-              src="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)#/media/File:Bootstrap_logo.svg"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
               width="48"
               height="48"
               alt="Bootstrap"
