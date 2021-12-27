@@ -24,15 +24,58 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&&hide=html&custom_title=Según GitHub:" alt="lasfito" /> -->
   
 
-## Tecnologías
+## Habilidades
 
-...
 
 <table align="center">
       <tbody>
         <tr>
            <td align="center" width="96">
             Lenguajes
+          </td>
+          <td align="center" width="96">
+            <img
+              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"
+              width="48"
+              height="48"
+              alt="JavaScript"/>
+          </td>
+          <td align="center" width="96">
+            <img
+              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png"
+              width="48"
+              height="48"
+              alt="TypeScript"/>
+          </td>
+          <td align="center" width="96">
+            <img
+              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png"
+              width="48"
+              height="48"
+              alt="HTML"
+            />
+          </td>
+          <td align="center" width="96">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+              width="48"
+              height="48"
+              alt="CSS"
+            />
+          </td>
+          <td align="center" width="96">
+           <!-- <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+              width="48"
+              height="48"
+              alt="..."
+            /> -->
+             ...
+          </td>
+        </tr>
+        <tr>
+           <td align="center" width="96">
+            Frameworks / Librerías
           </td>
           <td align="center" width="96">
             <img
