@@ -37,46 +37,35 @@
               width="48"
               height="48"
               alt="JavaScript"/> </td>
-
-          <td align="center" width="96">
+<td align="center" width="96">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
               width="48"
               height="48"
               alt="Python"/>
-         
           </td>
-
-          <td align="center" width="96">
+ <td align="center" width="96">
             <img
               src="https://cdn.worldvectorlogo.com/logos/django.svg"
               width="48"
               height="48"
               alt="Django"
             />
-
-       
           </td>
-
           <td align="center" width="96">
             <img
               src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png"
               width="48"
               height="48"
               alt="Azure"
-            />
-
-          </td>
-
-          <td align="center" width="96">
+            />          </td>
+<td align="center" width="96">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
               width="48"
               height="48"
               alt="TypeScript"
             />
-
-          
           </td>
         </tr>
       </tbody>
