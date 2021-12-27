@@ -58,7 +58,7 @@
           </td>
           <td align="center" width="96">
             <img
-              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
               width="48"
               height="48"
               alt="CSS"
