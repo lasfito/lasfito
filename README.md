@@ -115,7 +115,6 @@
               height="48"
               alt="Gatsby"
             /> 
-             
           </td>
         </tr>
       </tbody>
