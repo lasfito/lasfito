@@ -64,57 +64,58 @@
             />
           </td>
           <td align="center" width="96">
-           <!-- <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+            <img
+              src="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)#/media/File:Sass_Logo_Color.svg"
               width="48"
               height="48"
-              alt="..."
-            /> -->
-             ...
+              alt="SASS"
+            /> 
+         
           </td>
         </tr>
         <tr>
            <td align="center" width="96">
-            Frameworks / Librerías
+            Frameworks Librerías
           </td>
           <td align="center" width="96">
             <img
-              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
               width="48"
               height="48"
-              alt="JavaScript"/>
+              alt="React"/>
           </td>
           <td align="center" width="96">
             <img
-              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
               width="48"
               height="48"
               alt="TypeScript"/>
+            <br /> Native
           </td>
           <td align="center" width="96">
             <img
-              src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png"
+              src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg"
               width="48"
               height="48"
-              alt="HTML"
+              alt="Node"
             />
           </td>
           <td align="center" width="96">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+              src="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)#/media/File:Bootstrap_logo.svg"
               width="48"
               height="48"
-              alt="CSS"
+              alt="Bootstrap"
             />
           </td>
           <td align="center" width="96">
-           <!-- <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+            <img
+              src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"
               width="48"
               height="48"
-              alt="..."
-            /> -->
-             ...
+              alt="Gatsby"
+            /> 
+             
           </td>
         </tr>
       </tbody>
