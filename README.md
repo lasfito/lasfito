@@ -40,7 +40,6 @@
               width="48"
               height="48"
               alt="JavaScript"/>
-            <br /> JavaScript
           </td>
           <td align="center" width="96">
             <img
