@@ -26,54 +26,7 @@
 
 ## Tecnologías
 
-<table align="center">
-  <tbody>
-  <tr>
-   
-    <td align="center" width="96">
-  
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
- 
-      <br>JavaScript
-    </td>
-    
-   
-    <td align="center" width="96">
-      
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-           <br>Python
-    </td>
-    
 
-    <td align="center" width="96">
-      
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      
-      <br>Django
-    </td>
-    
-
-    <td align="center" width="96">
-      
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
-      
-      <br>Azure
-    </td>
-    
-    
-    <td align="center" width="96">
-    
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-    
-      <br>TypeScript
-    </td>
-    
-  </tr>
-  </tbody>
-  
-    
-    
-</table>
 
 
 
