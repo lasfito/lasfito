@@ -71,8 +71,8 @@ Lenguajes, librerías, frameworks y herramientas con las que trabajo comodamente
       <br>PostgreSQL
     </td>
     <td align="center"  width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
+      <br>Trello
     </td>
     <td align="center"  width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
