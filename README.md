@@ -65,7 +65,7 @@
           </td>
           <td align="center" width="96">
             <img
-              src="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)#/media/File:Sass_Logo_Color.svg"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
               width="48"
               height="48"
               alt="SASS"
