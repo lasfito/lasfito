@@ -110,7 +110,7 @@
           </td>
           <td align="center" width="96">
             <img
-              src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg"
               width="48"
               height="48"
               alt="Gatsby"
