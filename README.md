@@ -149,11 +149,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Cómo ser Desarrollador Web FRONTEND - Road Map 2022](https://www.youtube.com/watch?v=KwR6u5SDo_k)
 - [Tutorial Magic Link Auth con Firebase y React](https://www.youtube.com/watch?v=Mu4Iqqg1dTQ)
 - [Tutorial CRUD + Logs con Cloud Functions en Firebase y React](https://www.youtube.com/watch?v=eG0jOOlkyVg)
 - [Cómo crear una tabla estilo Excel en React](https://www.youtube.com/watch?v=hZUwj5pz-yc)
 - [Carrusel (slider) Animado en React Native a 60 FPS](https://www.youtube.com/watch?v=hD5Hi_XG4lc)
-- [Manda tu código a producción y edítalo desde tu PC](https://www.youtube.com/watch?v=dW7BDrJbzz0)
 <!-- BLOG-POST-LIST:END -->
 
 
