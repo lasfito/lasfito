@@ -149,11 +149,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Cómo mejorar el rendimiento de React](https://www.youtube.com/watch?v=AyuTxN2aj_0)
 - [Las 6 maneras de aplicar estilos CSS en React](https://www.youtube.com/watch?v=J-hGXVPyT-Y)
 - [Cómo ser Desarrollador Web FRONTEND - Road Map 2022](https://www.youtube.com/watch?v=KwR6u5SDo_k)
 - [Tutorial Magic Link Auth con Firebase y React](https://www.youtube.com/watch?v=Mu4Iqqg1dTQ)
 - [Tutorial CRUD + Logs con Cloud Functions en Firebase y React](https://www.youtube.com/watch?v=eG0jOOlkyVg)
-- [Cómo crear una tabla estilo Excel en React](https://www.youtube.com/watch?v=hZUwj5pz-yc)
 <!-- BLOG-POST-LIST:END -->
 
 
