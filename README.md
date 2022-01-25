@@ -149,11 +149,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Zoom con Gesto de Pellizco (Pinch) en React Native](https://www.youtube.com/watch?v=tbZAgA-qH74)
 - [Cómo crear una app de quiz/examen con React](https://www.youtube.com/watch?v=8oItCrRkQU0)
 - [Cómo mejorar el rendimiento de React](https://www.youtube.com/watch?v=AyuTxN2aj_0)
 - [Las 6 maneras de aplicar estilos CSS en React](https://www.youtube.com/watch?v=J-hGXVPyT-Y)
 - [Cómo ser Desarrollador Web FRONTEND - Road Map 2022](https://www.youtube.com/watch?v=KwR6u5SDo_k)
-- [Tutorial Magic Link Auth con Firebase y React](https://www.youtube.com/watch?v=Mu4Iqqg1dTQ)
 <!-- BLOG-POST-LIST:END -->
 
 
