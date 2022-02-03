@@ -149,11 +149,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Cómo correr contenedores en Google Cloud Run](https://www.youtube.com/watch?v=TVm_Qaw41HU)
 - [Aprende a utilizar las Reglas de Seguridad de Firestore](https://www.youtube.com/watch?v=PQc4aVuSr48)
 - [Zoom con Gesto de Pellizco (Pinch) en React Native](https://www.youtube.com/watch?v=tbZAgA-qH74)
 - [Cómo crear una app de quiz/examen con React](https://www.youtube.com/watch?v=8oItCrRkQU0)
 - [Cómo mejorar el rendimiento de React](https://www.youtube.com/watch?v=AyuTxN2aj_0)
-- [Las 6 maneras de aplicar estilos CSS en React](https://www.youtube.com/watch?v=J-hGXVPyT-Y)
 <!-- BLOG-POST-LIST:END -->
 
 
