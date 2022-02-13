@@ -149,11 +149,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Cómo agregar filtro a imagen de fondo SIN afectar al texto](https://www.youtube.com/watch?v=RUA_x_R5Eng)
 - [Evita Errores en React con este Truco ( Error Boundary )](https://www.youtube.com/watch?v=AkFrnjI3jv0)
 - [Cómo correr contenedores en Google Cloud Run](https://www.youtube.com/watch?v=TVm_Qaw41HU)
 - [Aprende a utilizar las Reglas de Seguridad de Firestore](https://www.youtube.com/watch?v=PQc4aVuSr48)
 - [Zoom con Gesto de Pellizco (Pinch) en React Native](https://www.youtube.com/watch?v=tbZAgA-qH74)
-- [Cómo crear una app de quiz/examen con React](https://www.youtube.com/watch?v=8oItCrRkQU0)
 <!-- BLOG-POST-LIST:END -->
 
 
