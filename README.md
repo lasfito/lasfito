@@ -31,7 +31,7 @@
 
 **Acorde a Github**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&&hide=html" alt="lasfito" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&custom_title=" alt="lasfito" /> 
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lasfito)](https://github.com/anuraghazra/github-readme-stats)
 -->
