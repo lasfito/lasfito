@@ -38,7 +38,7 @@
 
 
 
-**Acorde a Lasfito :v**
+**Acorde a mi :v**
 
 <table >
   <tr>
