@@ -40,7 +40,7 @@
 
 **Acorde a Lasfito :v**
 
-<table align="left">
+<table >
   <tr>
     <td align="center" width="96"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
@@ -72,7 +72,7 @@
     </td>
   </tr>
   </table>
-  <table align="left">
+  <table >
   <tr>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="48" height="48" alt="Gatsby" />
@@ -104,7 +104,7 @@
     </td>
   </tr>
   </table>
-  <table align="left">
+  <table >
    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
