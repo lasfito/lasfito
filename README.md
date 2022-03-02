@@ -27,7 +27,7 @@
 ## Stack
 
 
-**Según GitHub:**
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&&hide=html&custom_title=Según GitHub:" alt="lasfito" /> 
 
