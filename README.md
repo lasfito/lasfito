@@ -33,6 +33,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lasfito)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a"><img src="https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg" alt="Total time coded since Dec 7 2021" /></a>
+
 **Lasfito :v**
 
 <table align="center">
