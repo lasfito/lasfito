@@ -33,9 +33,10 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lasfito)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a"><img src="https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg" alt="Total time coded since Dec 7 2021" /></a>
 
 [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+
+[![wakatime](https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg)](https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a)
 
 **Lasfito :v**
 
