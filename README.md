@@ -160,11 +160,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Crea un Texto Animado en Círculo con CSS y React](https://www.youtube.com/watch?v=SxcnmmoioN8)
 - [Resuelvo Prueba Técnica Front End para empresa de EE. UU.](https://www.youtube.com/watch?v=-xbe8Fw1-d0)
 - [Cómo agregar filtro a imagen de fondo SIN afectar al texto](https://www.youtube.com/watch?v=RUA_x_R5Eng)
 - [Evita Errores en React con este Truco ( Error Boundary )](https://www.youtube.com/watch?v=AkFrnjI3jv0)
 - [Cómo correr contenedores en Google Cloud Run](https://www.youtube.com/watch?v=TVm_Qaw41HU)
-- [Aprende a utilizar las Reglas de Seguridad de Firestore](https://www.youtube.com/watch?v=PQc4aVuSr48)
 <!-- BLOG-POST-LIST:END -->
 
 
