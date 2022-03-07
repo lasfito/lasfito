@@ -144,7 +144,7 @@
 
 Cada semana comparto con mis suscriptores 3 artículos del mundo tech, 2 recursos de desarrollo y 1 consejo de programación. 
 Es una boletín 100% enfocado en aprendizaje y directo al grano. 
-Puedes suscribirte <a href="http://1-2-3.lasfi.to"  target="blank"> aquí </a>
+Puedes suscribirte <a href="http://s.1-2-3.dev"  target="_blank"> aquí </a>
 
 ## Contacto
 
