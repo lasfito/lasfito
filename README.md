@@ -160,11 +160,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Cómo Crear E-Commerce con Firebase y Stripe](https://www.youtube.com/watch?v=ScJ7FdHufm8)
 - [Cómo Crear PWA con React — Mega Tutorial](https://www.youtube.com/watch?v=kMucD68rkio)
 - [Crea un Texto Animado en Círculo con CSS y React](https://www.youtube.com/watch?v=SxcnmmoioN8)
 - [Resuelvo Prueba Técnica Front End para empresa de EE. UU.](https://www.youtube.com/watch?v=-xbe8Fw1-d0)
 - [Cómo agregar filtro a imagen de fondo SIN afectar al texto](https://www.youtube.com/watch?v=RUA_x_R5Eng)
-- [Evita Errores en React con este Truco ( Error Boundary )](https://www.youtube.com/watch?v=AkFrnjI3jv0)
 <!-- BLOG-POST-LIST:END -->
 
 
