@@ -8,11 +8,11 @@
 
 
 
-  - Ingeniero de software bilingüe
+  - Desarrollador bilingüe de software 
   - 2 años de experiencia en desarrollo full stack (React / Node / React Native)
   - Revisa mi sitio web en [https://lasfi.to](https://lasfi.to)
   - Creador de contenido en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
-  -  Adicional a inglés, hablo un poco de **ruso**.
+  - Adicional a inglés, hablo un poco de **ruso**.
 
 
 
@@ -142,8 +142,8 @@
 
 ## Boletín
 
-Cada semana comparto con mis suscriptores 3 artículos del mundo tech, 2 recursos de desarrollo y 1 consejo de programación. 
-Es una boletín 100% enfocado en aprendizaje y directo al grano. 
+Cada semana comparto con mis suscriptores 1 artículo del mundo tech, 1 recurso de desarrollo y 1 consejo de programación. 
+Es un boletín 100% enfocado en aprendizaje y directo al grano. 
 Puedes suscribirte <a href="http://s.1-2-3.dev"  target="_blank"> aquí </a>
 
 ## Contacto
