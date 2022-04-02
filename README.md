@@ -160,11 +160,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Entrevista Técnica en Uber - Primer Positivo Faltante](https://www.youtube.com/watch?v=tSykFigZeLo)
 - [Crea una Ventana Modal (PopUp) con HTML](https://www.youtube.com/watch?v=ZMhEVSvSwwk)
 - [Cómo Crear E-Commerce con Firebase y Stripe](https://www.youtube.com/watch?v=ScJ7FdHufm8)
 - [Cómo Crear PWA con React — Mega Tutorial](https://www.youtube.com/watch?v=kMucD68rkio)
 - [Crea un Texto Animado en Círculo con CSS y React](https://www.youtube.com/watch?v=SxcnmmoioN8)
-- [Resuelvo Prueba Técnica Front End para empresa de EE. UU.](https://www.youtube.com/watch?v=-xbe8Fw1-d0)
 <!-- BLOG-POST-LIST:END -->
 
 
