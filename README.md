@@ -160,11 +160,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Aprende Context (React) o te regreso tu Tiempo](https://www.youtube.com/watch?v=dmxVjrSdOAY)
 - [Estrangula y mejora tu código con Throttle](https://www.youtube.com/watch?v=wbrWeZemAxM)
 - [Mejora tu App con Debounce en JavaScript](https://www.youtube.com/watch?v=W1sOOTjtfh0)
 - [Manual de Supervivencia JavaScript para Principiantes](https://www.youtube.com/watch?v=jM1PoDMnbsA)
 - [Entrevista Técnica en Uber - Primer Positivo Faltante](https://www.youtube.com/watch?v=tSykFigZeLo)
-- [Crea una Ventana Modal (PopUp) con HTML](https://www.youtube.com/watch?v=ZMhEVSvSwwk)
 <!-- BLOG-POST-LIST:END -->
 
 
