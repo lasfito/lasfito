@@ -29,7 +29,7 @@
 ## Stack
 
 
-**Acorde a Github**
+**Según Github**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&hide=html&locale=es&layout=compact&custom_title=" alt="lasfito" /> 
 
@@ -38,7 +38,7 @@
 
 
 
-**Acorde a mi :v**
+**Según yo :v**
 
 <table >
   <tr>
