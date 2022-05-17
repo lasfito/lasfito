@@ -160,11 +160,11 @@ Contáctame por alguno de estos canales:
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Web Share API - ¡Comparte de forma Nativa!](https://www.youtube.com/watch?v=FRQCQrpe1GE)
 - [Aprende React Router o te regreso tu Tiempo](https://www.youtube.com/watch?v=5D6nqfbu2_E)
 - [Aprende Context (React) o te regreso tu Tiempo](https://www.youtube.com/watch?v=dmxVjrSdOAY)
 - [Estrangula y mejora tu código con Throttle](https://www.youtube.com/watch?v=wbrWeZemAxM)
 - [Mejora tu App con Debounce en JavaScript](https://www.youtube.com/watch?v=W1sOOTjtfh0)
-- [Manual de Supervivencia JavaScript para Principiantes](https://www.youtube.com/watch?v=jM1PoDMnbsA)
 <!-- BLOG-POST-LIST:END -->
 
 
