@@ -7,9 +7,11 @@
 [![wakatime](https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg)](https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a)
 
 
+**Lema:** Menos es más.
+
 
   - Desarrollador bilingüe de software 
-  - 2 años de experiencia en desarrollo full stack (React / Node / React Native)
+  - 2 años de experiencia en desarrollo front
   - Revisa mi sitio web en [https://lasfi.to](https://lasfi.to)
   - Creador de contenido en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
   - Adicional a inglés, hablo un poco de **ruso**.
@@ -26,10 +28,9 @@
  
   
 
-## Stack
+## Stack según GitHub
 
 
-**Según Github**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&hide=html&locale=es&layout=compact&custom_title=" alt="lasfito" /> 
 
@@ -37,7 +38,7 @@
 -->
 
 
-
+<!--
 **Según yo :v**
 
 <table >
@@ -138,24 +139,21 @@
     
 </table>
 
+-->
+
 
 
 ## Boletín
 
-Cada semana comparto con mis suscriptores 1 artículo del mundo tech, 1 recurso de desarrollo y 1 consejo de programación. 
-Es un boletín 100% enfocado en aprendizaje y directo al grano. 
-Puedes suscribirte <a href="http://s.1-2-3.dev"  target="_blank"> aquí </a>
+Cada semana comparto 1 artículo del mundo tech, 1 recurso de desarrollo y 1 consejo de programación. 
+Boletín 100% enfocado en aprendizaje y directo al grano. 
+Suscríbete <a href="http://s.1-2-3.dev"  target="_blank"> aquí </a>
 
 ## Contacto
 
-Me gusta platicar con desarrolladores entusiastas (y reclutadores, ¿por qué no). 
-Contáctame por alguno de estos canales:
-
-- 📫 Por correo a <a href='mailto:hola@lasfi.to '> hola@lasfi.to</a>
-- 🐦 Por Twitter en  <a href="https://twitter.com/lasf1to" target="blank"> @lasf1to</a>
-- 🤵 Por LinkedIn en <a href="https://www.linkedin.com/in/lasfito/"> in/lasfito </a>
-
-¡O déjame un comentario en <a href="https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw"> alguno de mis videos! </a> 
+- 📫 Correo a <a href='mailto:hola@lasfi.to '> hola@lasfi.to</a>
+- 🐦 Twitter en  <a href="https://twitter.com/lasf1to" target="blank"> @lasf1to</a>
+- 🤵 LinkedIn en <a href="https://www.linkedin.com/in/lasfito/"> in/lasfito </a>
 
 
 ## Videos recientes
