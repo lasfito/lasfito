@@ -42,11 +42,11 @@
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Las 12 reglas para un Buen CV de Programador](https://www.youtube.com/watch?v=p7oq6cNmrvw)
 - [¡Carrusel/Slider en React sin instalar NADA!](https://www.youtube.com/watch?v=ua2nNoigrD4)
 - [Envía Correo Electrónico con Firebase y React](https://www.youtube.com/watch?v=F1xchLx-sdM)
 - [Escribe Código Más RÁPIDO con Emmet y Snippets](https://www.youtube.com/watch?v=PI17eSZ4Uvg)
 - [Web Share API - ¡Comparte de forma Nativa!](https://www.youtube.com/watch?v=FRQCQrpe1GE)
-- [Aprende React Router o te regreso tu Tiempo](https://www.youtube.com/watch?v=5D6nqfbu2_E)
 <!-- BLOG-POST-LIST:END -->
 
 
