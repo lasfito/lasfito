@@ -42,11 +42,11 @@
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Envía Notificaciones Push con Firebase y React](https://www.youtube.com/watch?v=KfyAuuujWAg)
 - [Convierte Apps de React en contenedores Docker](https://www.youtube.com/watch?v=vxE3xMgtZaM)
 - [Las 12 reglas para un Buen CV de Programador](https://www.youtube.com/watch?v=p7oq6cNmrvw)
 - [¡Carrusel/Slider en React sin instalar NADA!](https://www.youtube.com/watch?v=ua2nNoigrD4)
 - [Envía Correo Electrónico con Firebase y React](https://www.youtube.com/watch?v=F1xchLx-sdM)
-- [Escribe Código Más RÁPIDO con Emmet y Snippets](https://www.youtube.com/watch?v=PI17eSZ4Uvg)
 <!-- BLOG-POST-LIST:END -->
 
 
