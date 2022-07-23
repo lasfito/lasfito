@@ -42,11 +42,11 @@
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Adiós Diseñadores Gráficos, hola DALL·E](https://www.youtube.com/watch?v=s6Q_7CXstlY)
 - [Necesitas estas extensiones para Desarrollo Web](https://www.youtube.com/watch?v=2Hw7RD07GFk)
 - [Crea una App de Web Scraping con JavaScript](https://www.youtube.com/watch?v=OX2LQRP82lk)
 - [Botón de descarga de archivos en HTML o React](https://www.youtube.com/watch?v=nb4vZqjG4Kg)
 - [Envía Notificaciones Push con Firebase y React](https://www.youtube.com/watch?v=KfyAuuujWAg)
-- [Convierte Apps de React en contenedores Docker](https://www.youtube.com/watch?v=vxE3xMgtZaM)
 <!-- BLOG-POST-LIST:END -->
 
 
