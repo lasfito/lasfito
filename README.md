@@ -42,11 +42,11 @@
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Protege tu App y Código con esta Herramienta](https://www.youtube.com/watch?v=EfMWXK0oUQ4)
 - [Adiós Diseñadores Gráficos, hola DALL·E](https://www.youtube.com/watch?v=s6Q_7CXstlY)
 - [Necesitas estas extensiones para Desarrollo Web](https://www.youtube.com/watch?v=2Hw7RD07GFk)
 - [Crea una App de Web Scraping con JavaScript](https://www.youtube.com/watch?v=OX2LQRP82lk)
 - [Botón de descarga de archivos en HTML o React](https://www.youtube.com/watch?v=nb4vZqjG4Kg)
-- [Envía Notificaciones Push con Firebase y React](https://www.youtube.com/watch?v=KfyAuuujWAg)
 <!-- BLOG-POST-LIST:END -->
 
 
