@@ -7,7 +7,7 @@
 
 
   - 2 años de experiencia en desarrollo front
-  - Revisa mi sitio web en [https://lasfi.to](https://lasfi.to)
+  - Revisa mi sitio web en [lasfi.to](https://lasfi.to)
   - Creador de contenido en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
   - Suscríbete a <a href="http://s.1-2-3.dev"  target="_blank"> mi boletín </a>
 
