@@ -12,7 +12,7 @@
 ## Estadísticas
 [![wakatime](https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg)](https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&langs_count=4&theme=nord&custom_title=Stack+segun+Github" alt="lasfito" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&langs_count=4&theme=nord&custom_title=Stack+según+GitHub" alt="lasfito" /> 
 
 ## Contacto
 
