@@ -22,11 +22,11 @@
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [¿Cuánto gana un Programador Web en México? 💵](https://www.youtube.com/watch?v=cuqL_zoXCQU)
 - [¿Primer trabajo como Dev? CREA este proyecto](https://www.youtube.com/watch?v=WxJ73zt3nCk)
 - [Conoce ARC: el MEJOR navegador web del 2022](https://www.youtube.com/watch?v=BgE-i2AumLs)
 - [Protege tu App y Código con esta Herramienta](https://www.youtube.com/watch?v=EfMWXK0oUQ4)
 - [Adiós Diseñadores Gráficos, hola DALL·E](https://www.youtube.com/watch?v=s6Q_7CXstlY)
-- [Necesitas estas extensiones para Desarrollo Web](https://www.youtube.com/watch?v=2Hw7RD07GFk)
 <!-- BLOG-POST-LIST:END -->
 
 
