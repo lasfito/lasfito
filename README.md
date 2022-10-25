@@ -22,11 +22,11 @@
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Edita un sitio web en vivo y sin código](https://www.youtube.com/watch?v=lZfEj9z0a5g)
 - [Resuelvo desafío Front para empresa Japonesa](https://www.youtube.com/watch?v=MB8OwqK4_Do)
 - [Optimiza Imágenes de tu Sitio Web con SRCSET](https://www.youtube.com/watch?v=R2-ZWHU2nxU)
 - [Cambia el marcador de una lista con CSS #shorts](https://www.youtube.com/watch?v=TqqVvKG82MM)
 - [¿Cuánto gana un Programador Web en México? 💵](https://www.youtube.com/watch?v=cuqL_zoXCQU)
-- [¿Primer trabajo como Dev? CREA este proyecto](https://www.youtube.com/watch?v=WxJ73zt3nCk)
 <!-- BLOG-POST-LIST:END -->
 
 
