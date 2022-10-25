@@ -4,9 +4,8 @@
  
 <img src="https://komarev.com/ghpvc/?username=lasfito&label=Profile%20views&color=0e75b6&style=flat" alt="lasfito" /> 
 
-  - 2 años de experiencia en desarrollo front
   - Revisa mi sitio web en [lasfi.to](https://lasfi.to)
-  - Creador de contenido en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
+  - Tutoriales sin relleno en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
   - Suscríbete a <a href="http://s.1-2-3.dev"  target="_blank"> mi boletín </a>
    
 ## Estadísticas
