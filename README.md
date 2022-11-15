@@ -20,11 +20,11 @@
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué Certificaciones necesitas como Dev?](https://www.youtube.com/watch?v=pKpfzatkqmA)
 - [Mis Errores al Aprender Programación](https://www.youtube.com/watch?v=i2fsh3QAPLU)
 - [Clase Magistral de SSR y CSR para Web Dev](https://www.youtube.com/watch?v=njtu5smoJNM)
 - [Refactoriza tu código con un simple clic](https://www.youtube.com/watch?v=8qe91WXuL-4)
 - [Edita un sitio web en vivo y sin código](https://www.youtube.com/watch?v=lZfEj9z0a5g)
-- [Resuelvo desafío Front para empresa Japonesa](https://www.youtube.com/watch?v=MB8OwqK4_Do)
 <!-- BLOG-POST-LIST:END -->
 
 
