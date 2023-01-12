@@ -20,11 +20,11 @@
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [No Usas Fetch Correctamente](https://www.youtube.com/watch?v=hufMn9dI_BU)
 - [¿ Qué Tecnologías Aprenderé en 2023 ?](https://www.youtube.com/watch?v=DfUWoixvFVo)
 - [¿Qué Certificaciones necesitas como Dev?](https://www.youtube.com/watch?v=pKpfzatkqmA)
 - [Mis Errores al Aprender Programación](https://www.youtube.com/watch?v=i2fsh3QAPLU)
 - [Clase Magistral de SSR y CSR para Web Dev](https://www.youtube.com/watch?v=njtu5smoJNM)
-- [Refactoriza tu código con un simple clic](https://www.youtube.com/watch?v=8qe91WXuL-4)
 <!-- BLOG-POST-LIST:END -->
 
 
