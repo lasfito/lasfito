@@ -16,11 +16,11 @@
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [¿Conoces Intersection Observer de JavaScript?](https://www.youtube.com/watch?v=8XfRA7VOJE4)
 - [No Usas Fetch Correctamente](https://www.youtube.com/watch?v=hufMn9dI_BU)
 - [¿ Qué Tecnologías Aprenderé en 2023 ?](https://www.youtube.com/watch?v=DfUWoixvFVo)
 - [¿Qué Certificaciones necesitas como Dev?](https://www.youtube.com/watch?v=pKpfzatkqmA)
 - [Mis Errores al Aprender Programación](https://www.youtube.com/watch?v=i2fsh3QAPLU)
-- [Clase Magistral de SSR y CSR para Web Dev](https://www.youtube.com/watch?v=njtu5smoJNM)
 <!-- BLOG-POST-LIST:END -->
 
 
