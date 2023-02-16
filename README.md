@@ -6,7 +6,7 @@
 
   - Revisa mi sitio web en [lasfi.to](https://lasfi.to)
   - Tutoriales sin relleno en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
-  - Suscríbete a <a href="http://s.1-2-3.dev"  target="_blank"> mi boletín </a>
+  - Suscríbete a <a href="http://lasfi.to/1-2-3/"  target="_blank"> mi boletín </a>
    
 
 ## Estadísticas
