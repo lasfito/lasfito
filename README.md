@@ -15,11 +15,11 @@ Ingeniero de Software con 3+ años de experiencia en desarrollo web (frontend / 
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Entrevista de System Design: Diseña YouTube](https://www.youtube.com/watch?v=n6J_SMZrkdI)
 - [E2E Testing con GitHub actions y Playwright](https://www.youtube.com/watch?v=S4nIcfLyGSY)
 - [¿Conoces Intersection Observer de JavaScript?](https://www.youtube.com/watch?v=8XfRA7VOJE4)
 - [No Usas Fetch Correctamente](https://www.youtube.com/watch?v=hufMn9dI_BU)
 - [¿ Qué Tecnologías Aprenderé en 2023 ?](https://www.youtube.com/watch?v=DfUWoixvFVo)
-- [¿Qué Certificaciones necesitas como Dev?](https://www.youtube.com/watch?v=pKpfzatkqmA)
 <!-- BLOG-POST-LIST:END -->
 
 
