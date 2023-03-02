@@ -15,11 +15,11 @@ Ingeniero de Software con 3+ años de experiencia en desarrollo web (frontend / 
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Animaciones en React con Intersection Observer y Custom Hook](https://www.youtube.com/watch?v=2AMdK8yHvX0)
 - [Migré mi Sitio Web a Astro 🚀](https://www.youtube.com/watch?v=m_3d5BpgaE4)
 - [Entrevista de System Design: Diseña YouTube](https://www.youtube.com/watch?v=n6J_SMZrkdI)
 - [E2E Testing con GitHub actions y Playwright](https://www.youtube.com/watch?v=S4nIcfLyGSY)
 - [¿Conoces Intersection Observer de JavaScript?](https://www.youtube.com/watch?v=8XfRA7VOJE4)
-- [No Usas Fetch Correctamente](https://www.youtube.com/watch?v=hufMn9dI_BU)
 <!-- BLOG-POST-LIST:END -->
 
 
