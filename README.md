@@ -15,11 +15,11 @@ Ingeniero de Software con 3+ años de experiencia en desarrollo web (frontend / 
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Cómo resolver LeetCode #1 - Two Sum](https://www.youtube.com/watch?v=uNUBpoU6izY)
 - [Camino a FANG - Algoritmos y Estructuras de Datos #2](https://www.youtube.com/watch?v=qkzMxRAnCQA)
 - [Camino a FANG - Algoritmos y Estructuras de Datos #1](https://www.youtube.com/watch?v=lXwjeO4HDdg)
 - [2 Sitios GRATIS mejores que un Bootcamp - FreeCodeCamp vs Odin Project](https://www.youtube.com/watch?v=5oZQqcag13U)
 - [Animaciones en React con Intersection Observer y Custom Hook](https://www.youtube.com/watch?v=2AMdK8yHvX0)
-- [Migré mi Sitio Web a Astro 🚀](https://www.youtube.com/watch?v=m_3d5BpgaE4)
 <!-- BLOG-POST-LIST:END -->
 
 
