@@ -15,11 +15,11 @@ Ingeniero de Software con 3+ años de experiencia en desarrollo web (frontend / 
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Camino a FANG #5 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=lab4N-oISQo)
 - [Cómo resolver LeetCode #242 - Valid Anagram](https://www.youtube.com/watch?v=YfJCp1KwQdQ)
 - [Camino a FANG #4  -  Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=ytFoy2xrT4Y)
 - [Cómo resolver LeetCode #217 - Contains Duplicate](https://www.youtube.com/watch?v=gxmCcoNLmPE)
 - [Camino a FANG #3  -  Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=VOl2g30adxI)
-- [Cómo resolver LeetCode #1 - Two Sum](https://www.youtube.com/watch?v=uNUBpoU6izY)
 <!-- BLOG-POST-LIST:END -->
 
 
