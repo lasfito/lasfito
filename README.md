@@ -15,11 +15,11 @@ Ingeniero de Software con 3+ años de experiencia en desarrollo web (frontend / 
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Camino a FANG #8 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=3M_WaHAjKD8)
 - [Camino a FANG #7 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=2Xt4W-3H-UQ)
 - [Camino a FANG #6 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=Zaq_TejKR6E)
 - [Camino a FANG #5 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=lab4N-oISQo)
 - [Cómo resolver LeetCode #242 - Valid Anagram](https://www.youtube.com/watch?v=YfJCp1KwQdQ)
-- [Camino a FANG #4  -  Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=ytFoy2xrT4Y)
 <!-- BLOG-POST-LIST:END -->
 
 
