@@ -15,11 +15,11 @@ Ingeniero de Software con 3+ años de experiencia en desarrollo web (frontend / 
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Futuro de la Programación en 2024 - Stack Overflow Survey](https://www.youtube.com/watch?v=YiRGXuBZHoc)
 - [Camino a FANG #12 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=JvhpVhbGevc)
 - [Camino a FANG #11 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=IapzEHQ067E)
 - [Camino a FANG #10 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=vUp4DUeSGHo)
 - [Camino a FANG #9 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=IPR88z0aRp4)
-- [Camino a FANG #8 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=3M_WaHAjKD8)
 <!-- BLOG-POST-LIST:END -->
 
 
