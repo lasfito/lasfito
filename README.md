@@ -15,11 +15,11 @@ Ingeniero de Software con 3+ años de experiencia en desarrollo web (frontend / 
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [Aprender a Programar — Tu mejor decisión financiera](https://www.youtube.com/watch?v=EPk6sqEOxBM)
 - [Añade Cloudflare Captcha &lpar;Turnstile&rpar; a tu Sitio Web](https://www.youtube.com/watch?v=ARe3qDIl6jo)
 - [Camino a FANG #19 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=GihCVtk6ys8)
 - [Despliega Directus CMS en 20 min con GCP](https://www.youtube.com/watch?v=HQtpnCKKL8g)
 - [Camino a FANG #18 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=Y6QJ6p2wSr8)
-- [Camino a FANG #17 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=A66mEe-MqHE)
 <!-- BLOG-POST-LIST:END -->
 
 
