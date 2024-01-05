@@ -15,11 +15,11 @@ Ingeniero de Software con 3+ años de experiencia en desarrollo web (frontend / 
 
 ## Videos recientes
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué nivel de inglés necesitas para trabajar en Japón? #programacion](https://www.youtube.com/watch?v=EJCJRe8mlyU)
 - [Substrings en Go #programacion](https://www.youtube.com/watch?v=F3loxRA3WjU)
 - [Me mudé a Japón como Programador de Software](https://www.youtube.com/watch?v=M3yDEjqn-Rw)
+- [Aprender a Programar — Tu mejor decisión financiera](https://www.youtube.com/watch?v=EPk6sqEOxBM)
 - [Añade Cloudflare Captcha &lpar;Turnstile&rpar; a tu Sitio Web](https://www.youtube.com/watch?v=ARe3qDIl6jo)
-- [Camino a FANG #19 - Algoritmos y Estructuras de Datos](https://www.youtube.com/watch?v=GihCVtk6ys8)
-- [Despliega Directus CMS en 20 min con GCP](https://www.youtube.com/watch?v=HQtpnCKKL8g)
 <!-- BLOG-POST-LIST:END -->
 
 
