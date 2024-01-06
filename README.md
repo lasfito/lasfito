@@ -1,19 +1,15 @@
 
-## Llámame Lasfito 👋 <img src="https://komarev.com/ghpvc/?username=lasfito&label=Profile%20views&color=0e75b6&style=flat" alt="lasfito" /> 
+## TL;DR 　
 
-Ingeniero de Software con 3+ años de experiencia en desarrollo web (frontend / backend) y desarrollo móvil. Dominio en JavaScript, TypeScript, Node, React y React Native. Actualmente aprendiendo Go, trabajando en construir un proyecto SaaS y creando tutoriales en español sobre desarrollo web.
+<img src="https://komarev.com/ghpvc/?username=lasfito&label=Profile%20views&color=0e75b6&style=flat" alt="lasfito" />  [![wakatime](https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg)](https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a)
 
-  - Revisa mi sitio web en [lasfi.to](https://lasfi.to)
-  - Tutoriales sin relleno en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
-  - Suscríbete a <a href="http://lasfi.to/1-2-3/"  target="_blank"> mi boletín </a>
-   
+Software Engineer with 4+ years of experience in web development (frontend / backend) and mobile development. Proficient in JavaScript, TypeScript, Node, React, and React Native; Intermediate in Go. 
 
-## Estadísticas [![wakatime](https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg)](https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a)
+🇯🇵 Web　開発「フロントエンド/バックエンド」およびモバイル開発で 4 年以上の経験を持つソフトウェア エンジニア。 JavaScript、TypeScript、Node、React、および React Native に精通している。 Goを学習中。
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&langs_count=4&theme=nord&custom_title=Stack+by+GitHub" alt="lasfito" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&langs_count=4&theme=nord&custom_title=Stack+según+GitHub" alt="lasfito" /> 
-
-## Videos recientes
+## Recent Videos
 <!-- BLOG-POST-LIST:START -->
 - [¿Necesitas titulo para migrar a Japón como Dev?](https://www.youtube.com/watch?v=eGjZm1m21hs)
 - [¿Qué nivel de inglés necesitas para trabajar en Japón? #programacion](https://www.youtube.com/watch?v=EJCJRe8mlyU)
