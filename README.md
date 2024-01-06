@@ -18,7 +18,9 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 - [Aprender a Programar — Tu mejor decisión financiera](https://www.youtube.com/watch?v=EPk6sqEOxBM)
 <!-- BLOG-POST-LIST:END -->
 
+## Contact
 
+👈🏼 Look to the left (or up if you're on the mobile app)
 
 
 
