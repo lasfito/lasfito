@@ -11,11 +11,11 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué nivel de japonés necesito para trabajar en Japón? #programacion](https://www.youtube.com/watch?v=0aDiQxS_aj0)
 - [¿Necesitas titulo para migrar a Japón como Dev?](https://www.youtube.com/watch?v=eGjZm1m21hs)
 - [¿Qué nivel de inglés necesitas para trabajar en Japón? #programacion](https://www.youtube.com/watch?v=EJCJRe8mlyU)
 - [Substrings en Go #programacion](https://www.youtube.com/watch?v=F3loxRA3WjU)
 - [Me mudé a Japón como Programador de Software](https://www.youtube.com/watch?v=M3yDEjqn-Rw)
-- [Aprender a Programar — Tu mejor decisión financiera](https://www.youtube.com/watch?v=EPk6sqEOxBM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
