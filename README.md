@@ -11,11 +11,11 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
+- [Day in the Life - Software Engineer in Tokyo &lpar;2/3&rpar; #programacion #japon #software #dayinthelife](https://www.youtube.com/watch?v=xwQA1QGjcwA)
 - [Day in the Life - Software Engineer in Tokyo &lpar;1/3&rpar;](https://www.youtube.com/watch?v=CYMgyW7hhHg)
 - [Day in the Life - Ingeniero de Software en Tokio](https://www.youtube.com/watch?v=OMv-vVP3DgA)
 - [¿Qué salario necesito para vivir en Tokio?](https://www.youtube.com/watch?v=TvtvqYPl80I)
 - [¿Qué nivel de japonés necesito para trabajar en Japón? #programacion](https://www.youtube.com/watch?v=0aDiQxS_aj0)
-- [¿Necesitas titulo para migrar a Japón como Dev?](https://www.youtube.com/watch?v=eGjZm1m21hs)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
