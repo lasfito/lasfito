@@ -20,7 +20,7 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 ## Contact
 
-👈🏼 Look to the left (or up if you're on the mobile app)
+👈🏼 Look to the left (or scroll up if you're on the mobile app)
 
 
 
