@@ -7,7 +7,7 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 🇯🇵 Web　開発「フロントエンド/バックエンド」およびモバイル開発で 4 年以上の経験を持つソフトウェア エンジニア。 JavaScript、TypeScript、Node、React、および React Native に精通している。 Goを学習中。
 
-<img align="center" src="https://github-readme-stats-6vqzxcuwk-lasfito.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&langs_count=8&theme=nord&custom_title=All+of+my+repositories" alt="Language distribution of all my repositories" /> 
+<img align="center" src="https://github-readme-stats-6vqzxcuwk-lasfito.vercel.app/api/top-langs?username=lasfito&show_icons=true&locale=es&layout=compact&langs_count=6&theme=nord&custom_title=All+of+my+Repositories" alt="Language distribution of all my repositories" /> 
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
