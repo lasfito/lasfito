@@ -11,11 +11,11 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
+- [¿Es la Inteligencia Artificial amiga de los programadores? 🤔 #software #inteligenciaartificial](https://www.youtube.com/watch?v=SN8G26lkuEo)
 - [Es #backend mejor que #frontend para tu carrera como programador? 🤔 #software](https://www.youtube.com/watch?v=9bOVLs1fM8I)
 - [Qué Tecnologías aprender en 2024 para Ganar Más $](https://www.youtube.com/watch?v=_d94GgVoRgM)
 - [¿Qué computadora comprar para aprender programación? 🤔 #programacion #software #developer #fyp](https://www.youtube.com/watch?v=f6-Uwfz0PqA)
 - [Cómo leer input de la terminal de comandos con Go 🤔 #golang #programacion #software #tutoriales](https://www.youtube.com/watch?v=vS_UrzfMLb4)
-- [Day in the Life - Ingeniero de software en Tokio &lpar;3/3&rpar; #programacion #japon #dayinthelife #software](https://www.youtube.com/watch?v=IaUdSfy6IY8)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
