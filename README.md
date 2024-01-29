@@ -11,11 +11,11 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
+- [5 proyectos para sobresalir como programador 😎 #software #devs #programacion](https://www.youtube.com/watch?v=4td35gNJumU)
 - [¿Tú tienes proyectos basura? 🤔 #software #programacion #reaccion](https://www.youtube.com/watch?v=GM3qEB0tjps)
 - [Proyectos que Todo Programador DEBE Hacer](https://www.youtube.com/watch?v=CX_g9TTAYPI)
 - [Top 5 tendencias de TI a seguir en 2024 #software #programacion #career](https://www.youtube.com/watch?v=Npa2Guu_bgo)
 - [¿Es Azure el mejor proveedor de nube? 🤔 #aws #azure #gcp #software](https://www.youtube.com/watch?v=MCOgOjZEJ3A)
-- [¿Es la Inteligencia Artificial amiga de los programadores? 🤔 #software #inteligenciaartificial](https://www.youtube.com/watch?v=SN8G26lkuEo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
