@@ -11,11 +11,11 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
+- [¿Podrías clonar MS Paint en la web? 🤔 #software  #devs  #programacion](https://www.youtube.com/watch?v=g7jTBkM04Jg)
 - [Creé la Mejor App para aprender Japonés | Devlog 1](https://www.youtube.com/watch?v=dwfFRfomaH0)
 - [¿Has considerado crear un juego para tu portafolio? 🤔 #software #devs #programacion](https://www.youtube.com/watch?v=PxwwwP-sk_s)
 - [5 proyectos para sobresalir como programador 😎 #software #devs #programacion](https://www.youtube.com/watch?v=4td35gNJumU)
 - [¿Tú tienes proyectos basura? 🤔 #software #programacion #reaccion](https://www.youtube.com/watch?v=GM3qEB0tjps)
-- [Proyectos que Todo Programador DEBE Hacer](https://www.youtube.com/watch?v=CX_g9TTAYPI)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
