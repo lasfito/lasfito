@@ -11,11 +11,11 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
+- [Eterno dilema: Ser o No ser  programador freelance 🤔#programacion #software](https://www.youtube.com/watch?v=eceStft5R8c)
 - [El valor de Chat GPT como herramienta de programación #softwaredevelopment  #desarrolloweb](https://www.youtube.com/watch?v=Xi9LXeybi7c)
 - [¿Podrías clonar MS Paint en la web? 🤔 #software  #devs  #programacion](https://www.youtube.com/watch?v=g7jTBkM04Jg)
 - [Creé la Mejor App para aprender Japonés | Devlog 1](https://www.youtube.com/watch?v=dwfFRfomaH0)
 - [¿Has considerado crear un juego para tu portafolio? 🤔 #software #devs #programacion](https://www.youtube.com/watch?v=PxwwwP-sk_s)
-- [5 proyectos para sobresalir como programador 😎 #software #devs #programacion](https://www.youtube.com/watch?v=4td35gNJumU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
