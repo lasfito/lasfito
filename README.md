@@ -11,11 +11,11 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo son las pruebas de programación para empresas extranjeras? 🤔 #software #programacion](https://www.youtube.com/watch?v=KRSup3svjFQ)
 - [¿Qué fue lo que más se te dificultó aprender como programador? 🤔#software #programacion](https://www.youtube.com/watch?v=pgFdOnadcgw)
 - [¿Por qué no consigo empleo como programador? 🤔#software  #programacion](https://www.youtube.com/watch?v=8_cW-owgAHg)
 - [¿Vale la pena certificarse en inglés siendo programador?  #programacion #software](https://www.youtube.com/watch?v=or_XoDJj-2I)
 - [El área de TI y su gusto por pruebas eternas :v #software #programacion](https://www.youtube.com/watch?v=hzvjLjpFpc0)
-- [Eterno dilema: Ser o No ser  programador freelance 🤔#programacion #software](https://www.youtube.com/watch?v=eceStft5R8c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
