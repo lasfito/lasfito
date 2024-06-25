@@ -10,11 +10,11 @@ Software Engineer with 4+ years of experience in web development (frontend / bac
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
+- [Aprendiendo Japonés en Vivo +  Q&amp;A sobre Japón](https://www.youtube.com/watch?v=UlOIwN8hBbE)
 - [Creando Portafolio Dev en Vivo &lpar;Astro/Directus/GCP&rpar;](https://www.youtube.com/watch?v=U0MFYVKrVSM)
 - [Creando Portafolio Dev en Vivo &lpar;Astro/Directus/GCP&rpar;](https://www.youtube.com/watch?v=D6WUqRwUl-s)
 - [¿Es posible aprender Japonés en 2 meses?](https://www.youtube.com/watch?v=ka6LdBsVgcw)
 - [¿Es diferente ser programafor en Latinoamérica que en Japón?  🤔 #software #programacion](https://www.youtube.com/watch?v=moe7oTgrEBo)
-- [¿Cómo son las pruebas de programación para empresas extranjeras? 🤔 #software #programacion](https://www.youtube.com/watch?v=KRSup3svjFQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
