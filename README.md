@@ -7,11 +7,11 @@ Software Engineer with over 4 years of experience in web development (frontend a
 
 ## Recent Videos
 <!-- BLOG-POST-LIST:START -->
+- [¿Cuáles son los mejores países para migrar como programador? 🧐 #desarrolloweb  #programacion](https://www.youtube.com/watch?v=t2IUgWfKGmU)
 - [¿Cómo es REALMENTE vivir y trabajar en Japón?](https://www.youtube.com/watch?v=HmriSeE1z4M)
 - [Aprendiendo Japonés en Vivo +  Q&amp;A sobre Japón](https://www.youtube.com/watch?v=UlOIwN8hBbE)
 - [Creando Portafolio Dev en Vivo &lpar;Astro/Directus/GCP&rpar;](https://www.youtube.com/watch?v=U0MFYVKrVSM)
 - [Creando Portafolio Dev en Vivo &lpar;Astro/Directus/GCP&rpar;](https://www.youtube.com/watch?v=D6WUqRwUl-s)
-- [¿Es posible aprender Japonés en 2 meses?](https://www.youtube.com/watch?v=ka6LdBsVgcw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
