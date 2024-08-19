@@ -5,25 +5,3 @@
 
 Software Engineer with over 4 years of experience in web development (frontend and backend) and mobile development. Proficient in JavaScript, TypeScript, Node.js, React, and React Native. Beyond his professional role, he is actively engaged in technology through the development of bootstrapped projects and the creation of development tutorials and software-related content on YouTube. 
 
-## Recent Videos
-<!-- BLOG-POST-LIST:START -->
-- [3 de agosto de 2024](https://www.youtube.com/watch?v=eOsugBg0Odo)
-- [¿Cuáles son los mejores países para migrar como programador? 🧐 #desarrolloweb  #programacion](https://www.youtube.com/watch?v=t2IUgWfKGmU)
-- [¿Cómo es REALMENTE vivir y trabajar en Japón?](https://www.youtube.com/watch?v=HmriSeE1z4M)
-- [Aprendiendo Japonés en Vivo +  Q&amp;A sobre Japón](https://www.youtube.com/watch?v=UlOIwN8hBbE)
-- [Creando Portafolio Dev en Vivo &lpar;Astro/Directus/GCP&rpar;](https://www.youtube.com/watch?v=U0MFYVKrVSM)
-<!-- BLOG-POST-LIST:END -->
-
-## Contact
-
-👈🏼 Look to the left (or scroll up if you're on the mobile app)
-
-
-
-
-
-
-
-
-
-  
